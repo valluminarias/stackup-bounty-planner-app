@@ -1,9 +1,9 @@
 # Planner App by val
 
 This is my submission for [Stackup Planner App Bounty](https://app.stackup.dev/bounty/planner-app-%E2%80%93-your-custom-widget).
-<p>
-    [App Link](https://val-planner-app-bounty.netlify.app)
-</p>
+
+[App Link](https://val-planner-app-bounty.netlify.app)
+
 
 ---
 
